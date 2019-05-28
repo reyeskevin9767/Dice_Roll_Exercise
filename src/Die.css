@@ -1,0 +1,14 @@
+#dice{
+
+    margin: 50px;
+    color: blue;
+
+}
+
+.editButton{
+    padding: 15px;
+    width: 200px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
